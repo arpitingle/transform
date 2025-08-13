@@ -1,10 +1,10 @@
 Files Structure
 
-sample.json - Sample JSON file with raw document data
-index.py - Pure Python implementation for data transformation
-utils.pyx - Cython implementation of text normalization function
-ython.py - Document processor using Cython functions
-setup.py - Build configuration for Cython compilation
+- sample.json - Sample JSON file with raw document data
+- index_python.py - Pure Python implementation for data transformation
+- utils.pyx - Cython implementation of text normalization function
+- index_cython.py - Document processor using Cython functions
+- setup.py - Build configuration for Cython compilation
 
 Setup Instructions
 1. Install Dependencies
