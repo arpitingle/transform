@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799439011",
+    "title": "Introduction to Machine Learning",
+    "body": "Machine learning is a subset of artificial intelligence that focuses on algorithms and statistical models. It enables computers to learn and make decisions from data without being explicitly programmed for every scenario.",
+    "author": "Dr. Sarah Johnson",
+    "tags": ["machine-learning", "ai", "data-science"]
+  },
+  {
+    "_id": "507f1f77bcf86cd799439012",
+    "title": "Python Data Structures",
+    "body": "Python offers several built-in data structures including lists, dictionaries, sets, and tuples. These structures are fundamental for organizing and manipulating data efficiently in Python programs.",
+    "author": "Alex Chen",
+    "tags": ["python", "programming", "data-structures"]
+  },
+  {
+    "_id": "507f1f77bcf86cd799439013",
+    "title": "Web Development Best Practices",
+    "body": "Modern web development requires understanding of responsive design, accessibility, performance optimization, and security considerations. Following best practices ensures maintainable and scalable applications.",
+    "author": "Maria Rodriguez",
+    "tags": ["web-development", "html", "css", "javascript"]
+  },
+  {
+    "_id": "507f1f77bcf86cd799439014",
+    "title": "Database Design Principles",
+    "body": "Effective database design involves normalization, proper indexing, and understanding relationships between entities. Good design reduces redundancy and improves query performance.",
+    "author": "Dr. Michael Kim",
+    "tags": ["database", "sql", "design"]
+  },
+  {
+    "_id": "507f1f77bcf86cd799439015",
+    "title": "Cloud Computing Overview",
+    "body": "Cloud computing provides on-demand access to computing resources over the internet. It offers scalability, cost-effectiveness, and flexibility for businesses and developers.",
+    "author": "Jennifer Liu",
+    "tags": ["cloud", "aws", "azure", "infrastructure"]
+  },
+  {
+    "_id": "507f1f77bcf86cd799439016",
+    "title": "Cybersecurity Fundamentals",
+    "body": "Cybersecurity involves protecting systems, networks, and data from digital attacks. Key concepts include encryption, authentication, authorization, and threat detection.",
+    "author": "Robert Taylor",
+    "tags": ["cybersecurity", "encryption", "network-security"]
+  },
+  {
+    "_id": "507f1f77bcf86cd799439017",
+    "title": "Mobile App Development",
+    "body": "Mobile app development requires understanding platform-specific guidelines, user experience design, and performance optimization. Cross-platform frameworks can reduce development time.",
+    "author": "Lisa Wang",
+    "tags": ["mobile", "ios", "android", "react-native"]
+  },
+  {
+    "_id": "507f1f77bcf86cd799439018",
+    "title": "Data Visualization Techniques",
+    "body": "Effective data visualization helps communicate insights and patterns in data. Choosing appropriate chart types and colors is crucial for clear communication.",
+    "author": "David Brown",
+    "tags": ["data-visualization", "charts", "analytics"]
+  },
+  {
+    "_id": "507f1f77bcf86cd799439019",
+    "title": "Software Testing Strategies",
+    "body": "Comprehensive testing strategies include unit testing, integration testing, and end-to-end testing. Automated testing frameworks help maintain code quality and prevent regressions.",
+    "author": "Emily Davis",
+    "tags": ["testing", "quality-assurance", "automation"]
+  },
+  {
+    "_id": "507f1f77bcf86cd79943901a",
+    "title": "API Design Guidelines",
+    "body": "RESTful API design follows principles of simplicity, consistency, and predictability. Proper documentation and versioning are essential for API maintainability.",
+    "author": "Thomas Wilson",
+    "tags": ["api", "rest", "web-services"]
+  }
+]
